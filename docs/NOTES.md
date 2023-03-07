@@ -16,7 +16,7 @@ DuckDB (particularly it's vectorized engine) has solved these types of problems 
 
 This project is not super likely to be useful (at least in the short term), as I am using it as a strong refresher to my cpp knowledge. Suggestions and / or contributions are welcome!
 
-I am also looking for labs / hospitals who have experienced the above outlined problems. I am loosely familiar with the trinity [Cusack Lab](https://www.cusacklab.org/) which will hopefully give some insight into problems that exist in this space. 
+I am also looking for labs / hospitals who have experienced the above outlined problems. I am loosely connected to the trinity [Cusack Lab](https://www.cusacklab.org/) which will hopefully give some insight into problems that exist in this space. 
 
 ## Roadmap
 
