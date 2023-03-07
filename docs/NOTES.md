@@ -22,5 +22,6 @@ I am also looking for labs / hospitals who have experienced the above outlined p
 
 This extension to [DuckDB](https://duckdb.org/)
 
-- Ability to parse nii.gz files into duckdb
-- 
+- Finalise extension goals
+- Ability to parse MRI data files into duckdb
+- Support of typical transformation / analytical functions performed using sql
